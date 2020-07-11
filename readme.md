@@ -8,7 +8,7 @@
 - `sudo apt install php7.2`
 - `sudo apt install composer`
 - `sudo apt install php7.2-xml php7.2-mbstring`
-- `sudo apt install nodejs`
+- `sudo apt install nodejs npm`
 
 ### Novo projeto
 - Criando estrutura: `composer create-project --prefer-dist laravel/laravel nome-projeto "5.7.*"`
