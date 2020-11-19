@@ -8,6 +8,7 @@
 - `sudo apt install php7.2`
 - `sudo apt install composer`
 - `sudo apt install php7.2-xml php7.2-mbstring php7.2-mysql`
+- `sudo apt install php7.4-sqlite3` (caso use sqlite)
 - `sudo apt install nodejs npm`
 
 ### Novo projeto
